@@ -4,10 +4,10 @@ I can support Windows 10/11 or any edition of Windows Server 2016 or better. My 
 
 There are some specific requirements before you can use your Windows 10/11 computer as a virtualization platform. The first thing we need to do is to understand what hardware is in the computer. We can verify most of what we need using __systeminfo.exe__ from the command prompt.
 
-In the example below, I’m running a Windows 11 Education instance.
+In the example below, I’m running a Windows 11 Education instance on a home build PC.
 
 <figure>
-<img src = "https://jor-donegal.github.io/verify26/images/fig1.avif">
+<img src = "https://jor-donegal.github.io/Verify26/images/fig1.avif">
 <figcaption>Fig 1. SYSINFO on a VMWare PC.</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ Note that it tells me a hypervisor has been detected. This machine has VMWare Wo
 Contrast that to one of my older Windows 10 machines, which has Hyper-V installed.
 
 <figure>
-<img src = "https://jor-donegal.github.io/verify26/images/fig2.avif">
+<img src = "https://jor-donegal.github.io/Verify26/images/fig2.avif">
 <figcaption>Fig 2. SYSINFO on a Huper-V PC.</figcaption>
 </figure>
 
