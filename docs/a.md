@@ -7,7 +7,7 @@ There are some specific requirements before you can use your Windows 10/11 compu
 In the example below, I’m running a Windows 11 Education instance.
 
 <figure>
-<img src = "https://jor-donegal.github.io/verify26/images/fig1.jpg">
+<img src = "https://jor-donegal.github.io/verify26/images/fig1.avif">
 <figcaption>Fig 1. SYSINFO on a VMWare PC.</figcaption>
 </figure>
 
@@ -16,10 +16,9 @@ Note that it tells me a hypervisor has been detected. This machine has VMWare Wo
 Contrast that to one of my older Windows 10 machines, which has Hyper-V installed.
 
 <figure>
-<img src = "https://jor-donegal.github.io/verify26/images/fig2.jpg">
+<img src = "https://jor-donegal.github.io/verify26/images/fig2.avif">
 <figcaption>Fig 2. SYSINFO on a Huper-V PC.</figcaption>
 </figure>
-
 
 In the previous screenshots I can see exactly the type of processor I have, the motherboard, and how much RAM I am using. At the end of this screenshot I can see the status of critical properties for virtualization. And they are all good! There are other things I can see that are mandatory for virtualization;
 
