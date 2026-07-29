@@ -1,5 +1,3 @@
-# MKTemplate
-Template for new teaching notes
+# History
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+1. Created from https://johnoraw.gitbook.io/verifying-your-system-1 29JUL26
